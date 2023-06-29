@@ -121,6 +121,8 @@ label{
 }
 
 .content a{
-    color: #fff
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 16px;
 
 }
